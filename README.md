@@ -285,8 +285,10 @@ Therefore, when the SD card is not detected, it is recommended to change a SanDi
 |            How to download the program?             |                 [dosc](./docs/flash_download_tool.md)                  |
 |  How do I turn on the device after I shut it down?  | [Issues #5](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101/issues/5) |
 |      How do I configure Wifi with EspTouch?         | [Issues #4](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101/issues/4) |
-|            Why won't the battery charge？            | [Issues #9](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101/issues/9) |
-|            no display on the screen            | [dosc](./docs/issue.md) |
+|            Why won't the battery charge?            | [Issues #9](https://github.com/Xinyuan-LilyGO/T-Embed-CC1101/issues/9) |
+|            no display on the screen                 | [dosc](./docs/issue.md) |
+| How to verify if `NFC` is working properly          | [dosc](./docs/nfc_test.md)  |
+
 
 ## :seven: Schematic & 3D 🎁
 
